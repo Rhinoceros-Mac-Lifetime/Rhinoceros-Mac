@@ -1,9 +1,9 @@
-# Rhinoceros Mac Standard License
+# Rhinoceros Mac
 
 <img src="https://www.genesis-technologies.com/cdn/shop/products/682063.jpg?v=1710838975" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>Rhinoceros for macOS</h3>
+<h3>Rhinoceros macOS</h3>
 <p>Rhinoceros is a specialized 3D modeling software for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
 <a href="https://mops-apps.github.io/.github/rhinoceros">
@@ -18,7 +18,7 @@
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/4X/d/1/5/d15b8d85622630f84cb05424cc7fa98f082fbb13.jpeg" width="824" alt="Screenshot"/>
+<img src="https://i.ytimg.com/vi/3bOfpm4iC9I/maxresdefault.jpg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ## Application Overview
 
-Rhinoceros for macOS represents a professional‑grade 3D modeling software engineered specifically for the Mac platform. The application prioritizes native macOS integration, leveraging Apple's core frameworks and interface guidelines to deliver an experience that feels inherently familiar to Mac users.
+Rhinoceros macOS represents a professional‑grade 3D modeling software engineered specifically for the Mac platform. The application prioritizes native macOS integration, leveraging Apple's core frameworks and interface guidelines to deliver an experience that feels inherently familiar to Mac users.
 
 The software architecture emphasizes <a href="#">responsive performance</a> through careful optimization of system resources. Every interaction, from launching the app to processing complex operations, has been refined to minimize latency and maintain smooth visual feedback. This attention to performance means the application remains usable even under heavy workloads.
 
